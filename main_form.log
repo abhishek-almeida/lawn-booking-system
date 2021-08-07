@@ -1,0 +1,33 @@
+Line 228: Class MSComctlLib.ListView of control history was not a loaded control class.
+Line 517: Class MSComctlLib.ListView of control daily_summary was not a loaded control class.
+Line 234: The property name _ExtentX in history is invalid.
+Line 235: The property name _ExtentY in history is invalid.
+Line 236: The property name View in history is invalid.
+Line 237: The property name LabelWrap in history is invalid.
+Line 238: The property name HideSelection in history is invalid.
+Line 239: The property name FullRowSelect in history is invalid.
+Line 240: The property name GridLines in history is invalid.
+Line 241: The property name _Version in history is invalid.
+Line 246: The property name NumItems in history is invalid.
+Line 250: The property name ColumnHeader(1) in history is invalid.
+Line 255: The property name ColumnHeader(2) in history is invalid.
+Line 260: The property name ColumnHeader(3) in history is invalid.
+Line 265: The property name ColumnHeader(4) in history is invalid.
+Line 270: The property name ColumnHeader(5) in history is invalid.
+Line 275: The property name ColumnHeader(6) in history is invalid.
+Line 280: The property name ColumnHeader(7) in history is invalid.
+Line 285: The property name ColumnHeader(8) in history is invalid.
+Line 523: The property name _ExtentX in daily_summary is invalid.
+Line 524: The property name _ExtentY in daily_summary is invalid.
+Line 525: The property name View in daily_summary is invalid.
+Line 526: The property name LabelWrap in daily_summary is invalid.
+Line 527: The property name HideSelection in daily_summary is invalid.
+Line 528: The property name FullRowSelect in daily_summary is invalid.
+Line 529: The property name GridLines in daily_summary is invalid.
+Line 530: The property name _Version in daily_summary is invalid.
+Line 535: The property name NumItems in daily_summary is invalid.
+Line 539: The property name ColumnHeader(1) in daily_summary is invalid.
+Line 544: The property name ColumnHeader(2) in daily_summary is invalid.
+Line 549: The property name ColumnHeader(3) in daily_summary is invalid.
+Line 554: The property name ColumnHeader(4) in daily_summary is invalid.
+Line 559: The property name ColumnHeader(5) in daily_summary is invalid.
